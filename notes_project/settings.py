@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yd_v09p+p_njy)o!nnapo+#*k%j2o@vysuh97(c2(6nwb$w+)$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 CSRF_TRUSTED_ORIGINS = [
-    "note-app-django-app8.onrender.com"
+    "https://note-app-django-app8.onrender.com"
 ]
 ALLOWED_HOSTS = ["note-app-django-app8.onrender.com"]
 
